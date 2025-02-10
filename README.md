@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Wouter
-- 👀 I’m interested in making customers happy with things we make.
-- 🌱 I’m currently learning on the job
 - ⚡ Fun fact: Catching fish is the goal; the journey to that goal is an adventure.
 
 <!---
